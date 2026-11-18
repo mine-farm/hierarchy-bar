@@ -1,0 +1,16 @@
+{
+  "name": "com.mf.hierarchy-object-pins",
+  "version": "1.0.0",
+  "displayName": "Hierarchy Object Pins",
+  "description": "Adds tag quick selectors and per-user object pins beneath the Unity Hierarchy search field.",
+  "unity": "6000.3",
+  "keywords": [
+    "editor",
+    "hierarchy",
+    "favorites",
+    "workflow"
+  ],
+  "author": {
+    "name": "MF"
+  }
+}
