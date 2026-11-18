@@ -22,10 +22,14 @@ Unity Hierarchy 검색창 아래에 두 개의 빠른 선택 행을 추가하는
 로컬 체크아웃을 사용할 때 Package Manager에서 다음 경로를 추가합니다.
 
 ```text
-file:../../unity-hierarchy-object-pins
+file:../../hierarchy-bar
 ```
 
-원격 Git 저장소에 올린 뒤에는 Package Manager의 **Add package from git URL**에서 저장소 URL을 사용합니다.
+Git 저장소에서 설치할 때 Package Manager의 **Add package from git URL**에 다음 URL을 사용합니다.
+
+```text
+https://github.com/mine-farm/hierarchy-bar.git#v1.0.0
+```
 
 ## 사용법
 

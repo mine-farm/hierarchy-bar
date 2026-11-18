@@ -13,7 +13,7 @@ namespace MF.Editor.HierarchyObjectPins
     internal static class HierarchyObjectPinBar
     {
         private const string StyleSheetPath =
-            "Packages/com.mf.hierarchy-object-pins/Editor/HierarchyObjectPinBar.uss";
+            "Packages/com.mine-farm.hierarchy-bar/Editor/HierarchyObjectPinBar.uss";
 
         private const string ViewportName = "mf-hierarchy-object-pin-viewport";
         private const string BarName = "mf-hierarchy-object-pin-bar";

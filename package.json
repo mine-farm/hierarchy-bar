@@ -1,5 +1,5 @@
 {
-  "name": "com.mf.hierarchy-object-pins",
+  "name": "com.mine-farm.hierarchy-bar",
   "version": "1.0.0",
   "displayName": "Hierarchy Object Pins",
   "description": "Adds tag quick selectors and per-user object pins beneath the Unity Hierarchy search field.",
@@ -11,6 +11,7 @@
     "workflow"
   ],
   "author": {
-    "name": "MF"
+    "name": "mine-farm",
+    "url": "https://github.com/mine-farm"
   }
 }
